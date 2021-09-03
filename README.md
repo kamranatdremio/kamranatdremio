@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kamranatdremio
-Solutions Architect
+- Solutions Architect @ Dremio
 
 <!---
 kamranatdremio/kamranatdremio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
