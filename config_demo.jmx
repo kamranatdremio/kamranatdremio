@@ -31,7 +31,7 @@
           <stringProp name="checkQuery"></stringProp>
           <stringProp name="connectionAge">5000</stringProp>
           <stringProp name="dataSource">Pool1</stringProp>
-          <stringProp name="dbUrl">jdbc:dremio:direct=dremio.org:31010; user=kamran.hussain@dremio.com;password=dremio123!@#</stringProp>
+          <stringProp name="dbUrl">jdbc:dremio:direct=<hostname/IP>:<port>;user=<userid>;password=<password></stringProp>
           <stringProp name="driver">com.dremio.jdbc.Driver</stringProp>
           <boolProp name="keepAlive">true</boolProp>
           <stringProp name="poolMax">0</stringProp>
